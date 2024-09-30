@@ -28,7 +28,7 @@ Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='RCDN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='_pages/RCDN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RCDN: Towards Robust Camera-Insensitivity Collaborative Perception via Dynamic Feature-based 3D Neural Modeling](https://arxiv.org/abs/2405.16868)
@@ -39,7 +39,7 @@ Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='UMC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='_pages/UMC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_UMC_A_Unified_Bandwidth-efficient_and_Multi-resolution_based_Collaborative_Perception_Framework_ICCV_2023_paper.pdf)
@@ -50,7 +50,7 @@ Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='GSC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='_pages/GSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GSC: A Graph and Spatio-Temporal Continuity Based Framework for Accident Anticipation](https://ieeexplore.ieee.org/document/10068772)
