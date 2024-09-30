@@ -17,42 +17,61 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in 
+[Robotics & Embodied AI Lab](https://ispc-group.github.io/) led by [Prof.Guang Chen](https://scholar.google.com/citations?user=kBhIyv4AAAAJ&hl=en) at Tongji University, Shanghai, China. Before that, I received my bachelor's degree of Automotive Engineering at Dalian University of Technology in 2021. My research interests mainly focus on 3D Computer Vision, Collaborative Perception, and Neural Rendering.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 One paper on robust collaborative perception got accepted  by NeurIPS 2024!
+- *2023.07*: &nbsp;🎉🎉 One paper on unified collaborative perception framework got accepted by ICCV 2023!
+- *2023.04*: &nbsp;🎉🎉 One paper on accident anticipation got accepted by IEEE Transaction on Intelligent Vehicles (IF=14)!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/RCDN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[RCDN: Towards Robust Camera-Insensitivity Collaborative Perception via Dynamic Feature-based 3D Neural Modeling](https://arxiv.org/abs/2405.16868)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tianhang Wang**, Fan Lu, Zehang Zheng, Guang Chen, Changjun Jiang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:IjCSPb-OGe4C'></span></strong>
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/UMC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_UMC_A_Unified_Bandwidth-efficient_and_Multi-resolution_based_Collaborative_Perception_Framework_ICCV_2023_paper.pdf)
+
+**Tianhang Wang**, Guang Chen, Kai Chen, Zhengfa Liu, Bo Zhang, Alois Knoll, Changjun Jiang
+
+[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:d1gkVwhDpl0C'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/GSC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GSC: A Graph and Spatio-Temporal Continuity Based Framework for Accident Anticipation](https://ieeexplore.ieee.org/document/10068772)
+
+**Tianhang Wang**, Kai Chen, Guang Chen, Bin Li, Zhijun Li, Zhengfa Liu, Changjun Jiang
+
+[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:u-x6o8ySG0sC'></span></strong>
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018* First Class Scholarship of Dalian University of Technology
+- *2019* First Class Scholarship of Dalian University of Technology
+- *2019* Third Prize of National Post-Graduate Mathematical Contest in Modeling
+- *2020* First Class Scholarship of Dalian University of Technology
+- *2021* First Class Scholarship of Dalian University of Technology
+- *2021* Dalian Outstanding Graduate
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.09 - present (now)*, Tongji University, Shanghai, China. Ph.D student of Automotive Engineering. 
+- *2017.09 - 2021.06*, Dalian University of Technology, Dalian, China. Bachelor of Automotive Engineering, GPA: 4.60/5.0 (Top 5%). 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.06 - 2022.09*, Algorithm Engineer at [Westwell]([https://github.com/](https://www.westwell-lab.com/)), China.
