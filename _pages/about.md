@@ -35,7 +35,7 @@ Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in
 
 **Tianhang Wang**, Fan Lu, Zehang Zheng, Guang Chen, Changjun Jiang
 
-[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:IjCSPb-OGe4C) | <span class='show_paper_citations' data='_1xPHkkAAAAJ:IjCSPb-OGe4C'></span> [Github]() | [Cite]() 
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:IjCSPb-OGe4C) | <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:IjCSPb-OGe4C'></span></strong> [Github]() | [Cite]() 
 </div>
 </div>
 
@@ -46,7 +46,7 @@ Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in
 
 **Tianhang Wang**, Guang Chen, Kai Chen, Zhengfa Liu, Bo Zhang, Alois Knoll, Changjun Jiang
 
-[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:d1gkVwhDpl0C) | <span class='show_paper_citations' data='_1xPHkkAAAAJ:d1gkVwhDpl0C'></span> [Github]() | [Cite](pub/umc.bib) 
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:d1gkVwhDpl0C) | <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:d1gkVwhDpl0C'></span></strong> [Github]() | [Cite](pub/umc.bib) 
 </div>
 </div>
 
@@ -57,7 +57,7 @@ Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in
 
 **Tianhang Wang**, Kai Chen, Guang Chen, Bin Li, Zhijun Li, Zhengfa Liu, Changjun Jiang
 
-[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:u-x6o8ySG0sC) | <span class='show_paper_citations' data='_1xPHkkAAAAJ:u-x6o8ySG0sC'></span> [Github]() | [Cite]() 
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:u-x6o8ySG0sC) | <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:u-x6o8ySG0sC'></span></strong> [Github]() | [Cite]() 
 </div>
 </div>
 
