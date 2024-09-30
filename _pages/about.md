@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in 
-[Robotics & Embodied AI Lab](https://ispc-group.github.io/) led by [Prof.Guang Chen](https://scholar.google.com/citations?user=kBhIyv4AAAAJ&hl=en) at Tongji University, Shanghai, China. Before that, I received my bachelor's degree of Automotive Engineering at Dalian University of Technology in 2021. My research interests mainly focus on 3D Computer Vision, Collaborative Perception, and Neural Rendering. *Download* [**CV**]("_pages/resume_Wang.pdf").
+[Robotics & Embodied AI Lab](https://ispc-group.github.io/) led by [Prof.Guang Chen](https://scholar.google.com/citations?user=kBhIyv4AAAAJ&hl=en) at Tongji University, Shanghai, China. Before that, I received my bachelor's degree of Automotive Engineering at Dalian University of Technology in 2021. My research interests mainly focus on 3D Computer Vision, Collaborative Perception, and Neural Rendering. *Download* [**CV**](_pages/resume_Wang.pdf).
 
 
 # 🔥 News
