@@ -50,7 +50,7 @@ Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='_pages/GSC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-IV 2023</div><img src='_pages/GSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**GSC: A Graph and Spatio-Temporal Continuity Based Framework for Accident Anticipation**](https://ieeexplore.ieee.org/document/10068772)
