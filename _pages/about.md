@@ -31,33 +31,33 @@ Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='_pages/RCDN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RCDN: Towards Robust Camera-Insensitivity Collaborative Perception via Dynamic Feature-based 3D Neural Modeling](https://arxiv.org/abs/2405.16868)
+[**RCDN: Towards Robust Camera-Insensitivity Collaborative Perception via Dynamic Feature-based 3D Neural Modeling**](https://arxiv.org/abs/2405.16868)
 
 **Tianhang Wang**, Fan Lu, Zehang Zheng, Guang Chen, Changjun Jiang
 
-[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:IjCSPb-OGe4C'></span></strong>
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:IjCSPb-OGe4C) | <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:IjCSPb-OGe4C'></span></strong>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='_pages/UMC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_UMC_A_Unified_Bandwidth-efficient_and_Multi-resolution_based_Collaborative_Perception_Framework_ICCV_2023_paper.pdf)
+[**UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework**](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_UMC_A_Unified_Bandwidth-efficient_and_Multi-resolution_based_Collaborative_Perception_Framework_ICCV_2023_paper.pdf)
 
 **Tianhang Wang**, Guang Chen, Kai Chen, Zhengfa Liu, Bo Zhang, Alois Knoll, Changjun Jiang
 
-[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:d1gkVwhDpl0C'></span></strong>
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:d1gkVwhDpl0C) | <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:d1gkVwhDpl0C'></span></strong>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='_pages/GSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GSC: A Graph and Spatio-Temporal Continuity Based Framework for Accident Anticipation](https://ieeexplore.ieee.org/document/10068772)
+[**GSC: A Graph and Spatio-Temporal Continuity Based Framework for Accident Anticipation**](https://ieeexplore.ieee.org/document/10068772)
 
 **Tianhang Wang**, Kai Chen, Guang Chen, Bin Li, Zhijun Li, Zhengfa Liu, Changjun Jiang
 
-[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:u-x6o8ySG0sC'></span></strong>
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:u-x6o8ySG0sC) | <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:u-x6o8ySG0sC'></span></strong>
 </div>
 </div>
 
