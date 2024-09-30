@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in 
-[Robotics & Embodied AI Lab](https://ispc-group.github.io/) led by [Prof.Guang Chen](https://scholar.google.com/citations?user=kBhIyv4AAAAJ&hl=en) at Tongji University, Shanghai, China. Before that, I received my bachelor's degree of Automotive Engineering at Dalian University of Technology in 2021. My research interests mainly focus on 3D Computer Vision, Collaborative Perception, and Neural Rendering. *Download* **CV** <a href="_pages/resume_Wang.pdf"> here.
+[Robotics & Embodied AI Lab](https://ispc-group.github.io/) led by [Prof.Guang Chen](https://scholar.google.com/citations?user=kBhIyv4AAAAJ&hl=en) at Tongji University, Shanghai, China. Before that, I received my bachelor's degree of Automotive Engineering at Dalian University of Technology in 2021. My research interests mainly focus on 3D Computer Vision, Collaborative Perception, and Neural Rendering. *Download* [**CV**]("_pages/resume_Wang.pdf").
 
 
 # 🔥 News
@@ -35,7 +35,7 @@ Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in
 
 **Tianhang Wang**, Fan Lu, Zehang Zheng, Guang Chen, Changjun Jiang
 
-[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:IjCSPb-OGe4C) | <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:IjCSPb-OGe4C'></span></strong>
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:IjCSPb-OGe4C) | <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:IjCSPb-OGe4C'></span></strong> [Github]() | [Cite](pub/rcdn.bib) 
 </div>
 </div>
 
@@ -46,7 +46,7 @@ Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in
 
 **Tianhang Wang**, Guang Chen, Kai Chen, Zhengfa Liu, Bo Zhang, Alois Knoll, Changjun Jiang
 
-[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:d1gkVwhDpl0C) | <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:d1gkVwhDpl0C'></span></strong>
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:d1gkVwhDpl0C) | <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:d1gkVwhDpl0C'></span></strong> [Github]() | [Cite](pub/umc.bib) 
 </div>
 </div>
 
@@ -57,7 +57,7 @@ Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in
 
 **Tianhang Wang**, Kai Chen, Guang Chen, Bin Li, Zhijun Li, Zhengfa Liu, Changjun Jiang
 
-[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:u-x6o8ySG0sC) | <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:u-x6o8ySG0sC'></span></strong>
+[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:u-x6o8ySG0sC) | <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:u-x6o8ySG0sC'></span></strong> [Github]() | [Cite](pub/gsc.bib) 
 </div>
 </div>
 
