@@ -68,6 +68,7 @@ Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in
 - *2020* First Class Scholarship of Dalian University of Technology
 - *2021* First Class Scholarship of Dalian University of Technology
 - *2021* Dalian Outstanding Graduate
+- *2024* Scholarship of Tongji REFIRE Technology
 
 # 📖 Educations
 - *2021.09 - present (now)*, Tongji University, Shanghai, China. Ph.D student of Automotive Engineering. 
