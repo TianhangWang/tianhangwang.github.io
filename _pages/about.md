@@ -33,7 +33,7 @@ Hi there! Welcome to my homepage. I am currently a fourth-year Ph.D student in
 
 [**RCDN: Towards Robust Camera-Insensitivity Collaborative Perception via Dynamic Feature-based 3D Neural Modeling**](https://arxiv.org/abs/2405.16868)
 
-**Tianhang Wang**, Fan Lu, Zehang Zheng, Guang Chen, Changjun Jiang
+**Tianhang Wang**, Fan Lu, Zehang Zheng, Zhijun Li, Guang Chen, Changjun Jiang
 
 [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1xPHkkAAAAJ&citation_for_view=_1xPHkkAAAAJ:IjCSPb-OGe4C) | <strong><span class='show_paper_citations' data='_1xPHkkAAAAJ:IjCSPb-OGe4C'></span></strong> [Github]() | [Cite]() 
 </div>
